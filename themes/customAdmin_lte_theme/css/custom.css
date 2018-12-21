@@ -1,0 +1,39 @@
+.nav-tabs-custom {
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 10px 20px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border-radius: 3px;
+}
+
+
+.user-panel>.info {
+    padding: 5px 5px 15px 15px;
+    line-height: .8;
+    position: absolute;
+    left: 55px;
+}
+
+.field.field--name-field-prod-image.field--type-image {
+    text-align: center;
+}
+
+.field--label-inline {
+    border-top: 1px solid #f4f4f4;
+    padding: 10px;
+}
+
+
+.field__label {
+    font-weight: normal !important;
+    color: #77b259;
+}
+
+
+.field__item {
+    font-weight: bold !important;
+    color: #333;
+}
+
+
+
